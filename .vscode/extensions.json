@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "svelte.svelte-vscode",
+        "coenraads.bracket-pair-colorizer",
+        "aaron-bond.better-comments",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "tobiastao.vscode-md"
+    ]
+}
